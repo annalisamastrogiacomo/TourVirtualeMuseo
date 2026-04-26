@@ -1,7 +1,7 @@
 var APP_DATA = {
   "scenes": [{
       "id": "3-piazza_duomo",
-      "name": "piazza_duomo",
+      "name": "Piazza Duomo",
       "levels": [
         {
           "tileSize": 256,
@@ -52,7 +52,7 @@ var APP_DATA = {
     },
     {
       "id": "0-cisterna_comune",
-      "name": "cisterna_palazzo_ducale",
+      "name": "Cisterna Palazzo Ducale",
       "levels": [
         {
           "tileSize": 256,
@@ -95,7 +95,7 @@ var APP_DATA = {
     },
     {
       "id": "1-cisterna_comune2",
-      "name": "cisterna_scuderie",
+      "name": "Cisterna Scuderie",
       "levels": [
         {
           "tileSize": 256,
@@ -152,7 +152,7 @@ var APP_DATA = {
     },
     {
       "id": "2-palazzo_comunale",
-      "name": "palazzo_ducale",
+      "name": "Palazzo Ducale",
       "levels": [
         {
           "tileSize": 256,
@@ -204,7 +204,7 @@ var APP_DATA = {
     
     {
       "id": "4-navata_centrale",
-      "name": "entrata",
+      "name": "Entrata Duomo",
       "levels": [
         {
           "tileSize": 256,
@@ -260,7 +260,7 @@ var APP_DATA = {
     },
     {
       "id": "5-navata_centrale",
-      "name": "navata_centrale",
+      "name": "Entrata Duomo",
       "levels": [
         {
           "tileSize": 256,
@@ -304,7 +304,7 @@ var APP_DATA = {
     },
     {
       "id": "6-altare_prospetto",
-      "name": "altare_prospetto",
+      "name": "Altare Prospetto",
       "levels": [
         {
           "tileSize": 256,
@@ -355,7 +355,7 @@ var APP_DATA = {
     },
     {
       "id": "7-altare",
-      "name": "altare",
+      "name": "Altare",
       "levels": [
         {
           "tileSize": 256,
@@ -414,7 +414,7 @@ var APP_DATA = {
     },
     {
       "id": "8-affreschi_altare",
-      "name": "affreschi_altare",
+      "name": "Affreschi Altare",
       "levels": [
         {
           "tileSize": 256,
@@ -494,7 +494,7 @@ var APP_DATA = {
     },
     {
       "id": "9-santa_reparata",
-      "name": "santa_reparata",
+      "name": "Santa Reparata",
       "levels": [
         {
           "tileSize": 256,
@@ -543,7 +543,7 @@ var APP_DATA = {
     },
     {
       "id": "10-santa_reparata_altare",
-      "name": "santa_reparata_altare",
+      "name": "Santa Reparata Altare",
       "levels": [
         {
           "tileSize": 256,
@@ -581,7 +581,7 @@ var APP_DATA = {
     },
     {
       "id": "11-museo_reliquie",
-      "name": "museo_reliquie",
+      "name": "Museo Reliquie",
       "levels": [
         {
           "tileSize": 256,
@@ -638,7 +638,7 @@ var APP_DATA = {
     },
     {
       "id": "12-museo_armadi",
-      "name": "museo_armadi",
+      "name": "Museo Armadi",
       "levels": [
         {
           "tileSize": 256,
@@ -695,7 +695,7 @@ var APP_DATA = {
     },
     {
       "id": "13-museo_polittico",
-      "name": "museo_polittico",
+      "name": "Museo Polittico",
       "levels": [
         {
           "tileSize": 256,
@@ -746,7 +746,7 @@ var APP_DATA = {
     },
     {
       "id": "14-museo_quadri",
-      "name": "museo_quadri",
+      "name": "Museo Quadri",
       "levels": [
         {
           "tileSize": 256,
@@ -790,7 +790,7 @@ var APP_DATA = {
     },
     {
       "id": "15-museo_statua",
-      "name": "museo_statua",
+      "name": "Museo Statue",
       "levels": [
         {
           "tileSize": 256,
@@ -834,7 +834,7 @@ var APP_DATA = {
     },
     {
       "id": "16-museo_maioliche",
-      "name": "museo_maioliche",
+      "name": "Museo Maioliche",
       "levels": [
         {
           "tileSize": 256,
@@ -891,7 +891,7 @@ var APP_DATA = {
     },
     {
       "id": "17-giardino_museo",
-      "name": "chiostro",
+      "name": "Chiostro",
       "levels": [
         {
           "tileSize": 256,
@@ -941,7 +941,7 @@ var APP_DATA = {
     },
     {
       "id": "18-cisterna_museo",
-      "name": "cisterna_cattedrale",
+      "name": "Cisterna Cattedrale",
       "levels": [
         {
           "tileSize": 256,
@@ -1010,7 +1010,7 @@ var APP_DATA = {
     },
     {
       "id": "19-cisterna_museo2",
-      "name": "cisterna_cattedrale2",
+      "name": "Cisterna Cattedrale",
       "levels": [
         {
           "tileSize": 256,
@@ -1054,7 +1054,7 @@ var APP_DATA = {
     },
     {
       "id": "20-cisterna_museo3",
-      "name": "cisterna_cattedrale3",
+      "name": "Cisterna Cattedrale",
       "levels": [
         {
           "tileSize": 256,
@@ -1092,7 +1092,7 @@ var APP_DATA = {
     },
     {
       "id": "21-cisterna_museo4",
-      "name": "cisterna_cattedrale4",
+      "name": "Cisterna Cattedrale",
       "levels": [
         {
           "tileSize": 256,
