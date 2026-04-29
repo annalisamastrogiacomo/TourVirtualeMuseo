@@ -139,12 +139,12 @@ var APP_DATA = {
         {
           "yaw": -0.7625109357901785,
           "pitch": -0.054026687257746175,
-        "title": "Le Grandi cisterne romane",
+        "title": "Le grandi cisterne romane",
           "text": "<h3>Le Grandi cisterne romane</h3><p style=\"font-size:12px;color:rgba(245,236,224,0.45);margin:0 18px 12px;font-style:italic;\">II sec. </p><img src=\"media/immagini/cisterna.jpg\" style=\"width:calc(100% - 36px);display:block;margin:0 18px 12px;border-radius:6px;\" alt=\"Le grandi cisterne romane\"><p>Sotto il Palazzo Ducale si trova una delle più grandi cisterne romane della città, databile al II secolo d.C.    E' composta da nove ambienti comunicanti, disposti in successione sul punto più alto di Atri. L'acqua piovana veniva raccolta dalla piazza sovrastante e convogliata all'interno. La pendenza delle stanze permetteva la decantazione :la melma si depositava sul fondo, mentre l'acqua defluiva attraverso piccole aperture tra un ambiente e l'altro.<a href=\"pagine/cisternaComune.html\" target=\"_blank\">→ Scheda completa di approfondimento</a>"
          },
         {
-"yaw": -2.6198251491994746,
-          "pitch": -0.019420222162935374,
+		 "yaw": 0.4258238943200407,
+          "pitch": -0.09083444286648046,
         "title": "I Cavalli e il prestigio degli Acquaviva",
           "text":  "<h3>I Cavalli e il prestigio degli Acquaviva</h3><p style=\"font-size:12px;color:rgba(245,236,224,0.45);margin:0 18px 12px;font-style:italic;\">fine 1300</p><img src=\"media/immagini/cavalli2.jpg\" style=\"width:calc(100% - 36px);display:block;margin:0 18px 12px;border-radius:6px;\" alt=\"Cisterne degli Acquaviva\"><p>Nei sotterranei del palazzo furono ricavati spazi per ospitare cavalli destinati agli spostamenti urbani. La famiglia Acquaviva d'Aragona era celebre per l’allevamento del Cavallo di Conversano, forte e agile, fornito anche all’esercito del re di Napoli. L’allevamento equino rappresentava prestigio sociale e potere militare.</p><a"
         }
