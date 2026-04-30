@@ -117,22 +117,22 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.0013426081752818675,
-        "pitch": 0,
-        "fov": 1.38217411905719
+       "yaw": -2.3074,
+        "pitch": -0.1258,
+        "fov": 1.4191
       },
       "linkHotspots": [
         {
           "yaw": 0.1258238943200407,
           "pitch": 0.09083444286648046,
           "rotation": 10.995574287564278,
-          "target": "0-cisterna_comune"
+          "target": "2-palazzo_comunale"
         },
         {
           "yaw": -2.063203672172884,
           "pitch": 0.16047167712131127,
           "rotation": 5.497787143782138,
-          "target": "2-palazzo_comunale"
+          "target": "0-cisterna_comune"
         }
       ],
       "infoHotspots": [
