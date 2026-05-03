@@ -352,7 +352,7 @@ body.single-scene #sceneListToggle { display: none; }
 
 @media (max-width: 500px) {
   .link-hotspot-icon {
-    width: 28px; height: 28px;
+    width: 52px; height: 52px;
     line-height: 28px;
     font-size: 14px !important;
   }
